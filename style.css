@@ -12,20 +12,6 @@
     width: 300px;
     height: 120px;
 }
-
-@media (max-width:768px) {
-    .tamanho-foto-gr {
-        width: 120px;
-        height: 70px;
-    }
-
-    .tamanho-foto-selo {
-        width: 140px;
-        height: 80px;
-    }
-}
-
-
 .cor-icon {
     color: blue;
     height: 30px;
@@ -69,4 +55,11 @@
 
 .tamanho-botao-2:hover {
     color: white;
+}
+.cor-azul{
+    color:#3077ab;
+}
+.cor-laranja{
+    color:#fe7a00;
+    margin-left: -10px;
 }
