@@ -15,7 +15,8 @@ Portal de notícias da ModalGR
 <a href="https://desafio1-bootstrap.vercel.app/" target="_blank">
   <img src="./img/demonstracao.png" width=100% style="border-radius:6px" />
 </a>
-  ## Authors
+
+## Authors
 
   * **Maria Eduarda Barbosa Martinez** 
 
